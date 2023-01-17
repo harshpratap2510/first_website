@@ -1,0 +1,97 @@
+.para{
+   text-decoration: underline;
+}
+ 
+hr{
+   border: none;
+   border-top: dotted;
+   width: 5%;
+   border-width: 7px;
+   border-color: gray;
+    
+}
+ body{
+    margin: 0 auto ;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+ }
+ h1{
+    margin: 50px 0 0 0;
+    /* padding-top: 50px; */
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+ 
+ }
+ h2{
+   font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+font-size: 2.5rem;
+font-weight: normal;
+ }
+ h3{
+   font-family: 'Montserrat', sans-serif;
+   color: #11999E;
+ }
+ a{
+   color: #11999E;
+ }
+
+ .top-container{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+    
+ }
+ .middle-container{
+    
+    
+ }
+ .bottom-container{
+    
+ }
+
+ .top-cloud{
+   position: absolute;
+   top: 50px;
+   right: 30%;
+ }
+
+ .bottom-cloud{
+   position: absolute;
+   top: 400px;
+   left: 300px;
+ }
+ .programming{
+   width: 25%;
+   height: auto;
+   border-radius: 100% 100%;
+   float: right;
+   margin: left 30px ;
+ }
+ 
+ .developer{
+   width: 28%;
+   height: auto;
+   border-radius: 100% 100%;
+   float: left;
+   margin-right: 30px;
+ }
+
+ .profile1{
+   width: 300px;
+   height: auto;
+ }
+
+ .skill-row{
+   margin :100px auto ;
+   width: 50%;
+   text-align: left;
+   line-height: 2;
+ }
+
+ .inline{
+   
+ }
+  
